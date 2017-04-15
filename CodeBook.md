@@ -5,6 +5,7 @@ The script 'run_analysis.R' download the data from URL and performs the 5 steps 
 * Uses descriptive activity names to name the activities in the data set<br/>
 * Appropriately labels the data set with descriptive variable names.<br/>
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br/><br/>
+
 # Variables
 * 'x_train', 'y_train', 'x_test', 'y_test', 'subject_train' and 'subject_test' contain the data from the downloaded files.<br/>
 * 'mrg_train' and 'mrg_test' merge the previous datasets to further analysis.<br/>
