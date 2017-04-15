@@ -1,3 +1,4 @@
+
 # Introduction
 The script 'run_analysis.R' download the data from URL and performs the 5 steps described in the course project's definition.
 * Merges the training and the test sets to create one data set.<br/>
